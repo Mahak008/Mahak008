@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahak802" target="blank"><img src="https://img.shields.io/twitter/follow/mahak802?logo=twitter&style=for-the-badge" alt="mahak802" /></a> </p>
 
-<img align="right" alt="Coding" width="500" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
+<img align="right" alt="Coding" width="450" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
 
 - 🔭 I’m currently working on [Khaana Khazana](https://github.com/Mahak008/Khaana-Khazana)
 

@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **mahakgarg8002@gmail.com**
+- 📫 Reach me @ **mahakgarg8002@gmail.com**
 
-- ⚡ Fun fact **I am a Poet and an Artist as well.**
+- ⚡ Fun fact: **I am a Poet and an Artist as well.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

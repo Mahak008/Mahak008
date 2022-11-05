@@ -21,7 +21,7 @@
 
 - 📫 Reach me @ **mahakgarg8002@gmail.com**
 
-- ⚡ Fun fact: **I am a Poet and an Artist as well.**
+- ⚡ Fun fact: **I am a Graphic Designer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

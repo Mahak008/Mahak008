@@ -49,28 +49,27 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> 
   </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> 
+  </a> 
 </p>
 
 ## Most used Languages:
 
 <p align="center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&hide=html&theme=dracula&hide_border=true">
-  <br><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahak008&theme=dracula" alt=""><br><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahak008&theme=dracula"><br><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahak008&theme=dracula" alt="">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahak008&theme=dracula">
   </a>
 </p>
 

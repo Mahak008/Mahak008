@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact: **I am a Graphic Designer.**
 
-### Connect with me:
+## Connect with me:
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="left">
   <a href="https://www.hackerrank.com/mahakgarg8002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahakgarg8002" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+## Languages and Tools:
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-### Most used Languages:
+## Most used Languages:
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-### GitHub Stats:
+## GitHub Stats:
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">

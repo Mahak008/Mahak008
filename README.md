@@ -24,7 +24,6 @@
 - ⚡ Fun fact: **I am a Graphic Designer.**
 
 ## Connect with me:
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="left">
   <a href="https://www.hackerrank.com/mahakgarg8002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahakgarg8002" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/mahakgarg8002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahakgarg8002" height="30" width="40" /></a>
@@ -37,7 +36,6 @@
 </p>
 
 ## Languages and Tools:
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
@@ -66,7 +64,6 @@
 </p>
 
 ## Most used Languages:
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&hide=html&theme=dracula&hide_border=true">
@@ -78,7 +75,7 @@
 </p>
 
 ## GitHub Stats:
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<!--![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)-->
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak008&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact"><br><br>

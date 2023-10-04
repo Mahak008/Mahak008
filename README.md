@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 Reach me @ **mahakgarg8002@gmail.com**
+- 📫 Reach me @ **garg02mahak@gmail.com**
 
 - ⚡ Fun fact: **I am a Graphic Designer.**
 

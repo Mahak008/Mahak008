@@ -20,8 +20,10 @@
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 Reach me @ **garg02mahak@gmail.com**
+  
+- 👨‍💻 I am an Open Source Enthusiast.
 
-- ⚡ Fun fact: **I am a Graphic Designer.**
+- ⚡ Fun fact: **I was the Winner of Social Winter of Code 2.0 and Hacksquad'22.**
 
 ## Connect with me:
 <p align="left">
@@ -33,6 +35,9 @@
   </a>
   <a href="https://linkedin.com/in/mahakgarg" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahakgarg" height="30" width="40">
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
 

@@ -17,7 +17,7 @@
 
 - 🔭 I am curretly pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, React JS and DSA.**
 
 - 📫 Reach me @ **garg02mahak@gmail.com**
   

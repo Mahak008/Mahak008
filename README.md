@@ -21,9 +21,9 @@
 
 - 📫 Reach me @ **garg02mahak@gmail.com**
   
-- 👨‍💻 I am an Open Source Enthusiast.
+- 👨‍💻 I am an **Open Source Enthusiast**.
 
-- ⚡ Fun fact: **I was the Winner of Social Winter of Code 2.0 and Hacksquad'22.**
+- ⚡ Fun fact: I was the Winner of Social Winter of Code 2.0 and Hacksquad'22.
 
 ## Connect with me:
 <p align="left">

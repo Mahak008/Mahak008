@@ -15,7 +15,7 @@
 
 ## About me:
 
-- 🔭 I am curretly pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
+- 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
 
 - 🌱 I’m currently learning **React JS and DSA**.
 

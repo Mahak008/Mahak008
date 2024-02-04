@@ -27,6 +27,9 @@
 
 ## Social Profiles:
 <p align="left">
+  <a href="https://www.codingninjas.com/studio/profile/Mahak008" target="_blank">
+    <img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Mahak008" height="30" width="40" />
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/mahak_garg" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahak_garg" height="30" width="40" />
   </a>

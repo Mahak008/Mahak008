@@ -25,10 +25,13 @@
 
 - ⚡ Fun fact: I was the 3rd Top Contributor in **Social Winter of Code 2.0** and amongst Top 60 teams in **Hacksquad'22**.
 
-## Connect with me:
+## Social Profiles:
 <p align="left">
+  <a href="https://www.codingninjas.com/studio/profile/Mahak008" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Mahak008" height="30" width="40" />
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/mahak_garg" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahakgarg8002" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahak_garg" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/mahakgarg8002" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahakgarg8002" height="30" width="40" />

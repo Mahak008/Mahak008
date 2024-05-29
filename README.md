@@ -13,19 +13,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
 
-## About Me
+## 🚀 About Me
 
 - 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
 - 🌱 I’m currently learning **React JS and DSA**.
-- 📫 Reach out to me at **garg02mahak@gmail.com**.
+- 📫 Reach out to me at **[garg02mahak@gmail.com](mailto:garg02mahak@gmail.com)**.
 - 👨‍💻 I am an **Open Source Enthusiast**.
 
 ## 🏆 Achievements
 
-- 3rd Top Contributor in **Social Winter of Code 2.0**.
-- Ranked amongst the Top 60 teams in **Hacksquad'22**.
+- 🥉 3rd Top Contributor in **Social Winter of Code 2.0**.
+- 🏅 Ranked amongst the Top 60 teams in **Hacksquad'22**.
 
-## 🌐 Connect with Me
+## 🌐 Social Profiles
 
 <p align="left">
   <a href="https://www.codingninjas.com/studio/profile/Mahak008" target="_blank">
@@ -77,7 +77,8 @@
   </a>
 </p>
 
-## Most Used Languages
+## 📊 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&hide=html&theme=dracula&hide_border=true">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -86,7 +87,8 @@
   </a>
 </p>
 
-## GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak008&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact"><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahak008&theme=dracula"><br><br>

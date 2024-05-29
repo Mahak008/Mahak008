@@ -76,7 +76,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
-Most Used Languages
+
+## Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&hide=html&theme=dracula&hide_border=true">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -84,7 +85,8 @@ Most Used Languages
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahak008&theme=dracula">
   </a>
 </p>
-GitHub Stats
+
+## GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak008&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact"><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahak008&theme=dracula"><br><br>

@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact: I was the 3rd Top Contributor in **Social Winter of Code 2.0** and amongst Top 60 teams in **Hacksquad'22**.
 
-## Social Profiles:
+## Coding Profiles:
 <p align="left">
   <a href="https://www.codingninjas.com/studio/profile/Mahak008" target="_blank">
     <img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Mahak008" height="30" width="40" />
@@ -36,9 +36,6 @@
   <a href="https://www.hackerrank.com/mahakgarg8002" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahakgarg8002" height="30" width="40" />
   </a>
-  </a>
-  <a href="https://linkedin.com/in/mahakgarg" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahakgarg" height="30" width="40">
   </a>
   <a href="https://www.leetcode.com/mahak80" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahak80" height="30" width="40" />

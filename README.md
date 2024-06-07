@@ -22,8 +22,8 @@
 
 ## 🏆 Achievements
 
-- 🥉 3rd Top Contributor in **Social Winter of Code 2.0**.
 - 🏅 Ranked amongst the Top 60 teams in **Hacksquad'22**.
+- 🥉 3rd Top Contributor in **Social Winter of Code 2.0**.
 
 ## 🌐 Social Profiles
 

@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
-- 🌱 I’m currently learning **React JS and DSA**.
+- 🌱 I’m currently learning **Web Development and DSA**.
 - 📫 Reach out to me at **[garg02mahak@gmail.com](mailto:garg02mahak@gmail.com)**.
 - 👨‍💻 I am an **Open Source Enthusiast**.
 

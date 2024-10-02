@@ -23,7 +23,10 @@
 </p>
 
 
-<h3>🏆 Achievements: </h3>
+<h3>
+  <img src="https://media4.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.webp?cid=790b76111ilwevdelym970yv1nehqljd5lary751bukk5kcj&ep=v1_stickers_search&rid=giphy.webp&ct=s" width ="25">
+  Achievements: 
+</h3>
 🏅 Qualified <b>Smart India Hackathon, 2023</b> Internal Round. <br />
 🎖️ Ranked amongst the Top 60 teams in <b>Hacksquad, 2022</b>. <br />
 🥉 3rd Top Contributor in <b>Social Winter of Code 2.0</b> out of 1200+ participants. <br />
@@ -88,7 +91,10 @@
 <!--<h3>🔝 Top Contributed Repo</h3> -->
 <!-- <img src="https://github-contributor-stats.vercel.app/api?username=Mahak008&limit=5&theme=radical"> -->
 
-<h3>🏆 Trophies: </h3>
+<h3>
+  <img src="https://media1.giphy.com/media/zjPuT0erGMWONFdxEl/giphy.webp?cid=790b761169az0s1xtjju2li4mf54jsx7jbkye98hmq9pvue4&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="40" style="margib-top:"-5px"">
+  Trophies: 
+</h3>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Mahak008&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>

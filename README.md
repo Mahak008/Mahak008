@@ -13,18 +13,20 @@
 
 <img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> <br>
 
-## 🚀 About Me
+**🚀 About Me** <br />
 ✨ **MERN Stack Developer** <br />
 👨‍💻 **Open Source Enthusiast** <br />
 🔭 MCA final year student at IGDTUW, New Delhi. <br />
 🌱 Currently learning **MERN Stack Development and Data Structures and Algorithms**. <br />
 
-## 🏆 Achievements
-- 🏅 Qualified Smart India Hackathon 2023 Internal Round.
-- 🎖️ Ranked amongst the Top 60 teams in **Hacksquad'22**.
-- 🥉 3rd Top Contributor in **Social Winter of Code 2.0** out of 1200+ participants.
-- 🥇 Secured 1st place out of 250+ teams at the District Level in National Children Science Congress, 2018.
-- 🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars.
+<hr width = "65%" />
+
+**🏆 Achievements** <br />
+🏅 Qualified Smart India Hackathon 2023 Internal Round. <br />
+🎖️ Ranked amongst the Top 60 teams in **Hacksquad'22**. <br />
+🥉 3rd Top Contributor in **Social Winter of Code 2.0** out of 1200+ participants. <br />
+🥇 Secured 1st place out of 250+ teams at the District Level in National Children Science Congress, 2018. <br />
+🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars. <br />
 
 ## 🛠️ Languages and Tools
 

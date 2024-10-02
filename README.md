@@ -28,7 +28,7 @@
 🎖️ Ranked amongst the Top 60 teams in <b>Hacksquad, 2022</b>. <br />
 🥉 3rd Top Contributor in <b>Social Winter of Code 2.0</b> out of 1200+ participants. <br />
 🥇 Secured 1st place out of 250+ teams at the District Level in <b>NCSC, 2018</b>. <br />
-🎓 Honored with the <b>Most Reliable Student Award, 2018</b> for dedication to academic and extracurriculars. <br />
+🎓 Honored with the <b>Most Reliable Student Award, 2018</b> for dedication to Academics and Extra-Curriculars. <br />
 
 <h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">

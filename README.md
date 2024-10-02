@@ -34,30 +34,35 @@
 
 <h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-  Languages and Tools:
+  Skills:
 </h3>
 
-Languages:
+**Languages:**
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat"> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">
 <br>
-Frameworks:
+**Frameworks:**
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat"> 
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat"> 
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat"> 
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat"> 
 <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat"> 
 <br>
-Tools and Platforms: 
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat"> 
+**Databases:**
+<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"> 
+<br>
+**Tools and Platforms:**
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat"> 
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat"> 
 <br>
-Operating Systems: 
+**Operating Systems:**
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)

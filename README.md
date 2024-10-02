@@ -21,7 +21,7 @@
 🔭 MCA final year student at IGDTUW, New Delhi. <br />
 🌱 Currently learning **MERN Stack Development and DSA**. <br />
 
-<hr width = "60%" />
+<hr/>
 
 **🏆 Achievements** <br />
 🏅 Qualified Smart India Hackathon 2023 Internal Round. <br />

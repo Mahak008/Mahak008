@@ -32,8 +32,7 @@
 🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars. <br />
 
 <hr width = "60%" />
-
-## 🛠️ Languages and Tools
+** 🛠️ Languages and Tools :- *
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -68,7 +67,7 @@
   </a>
 </p>
 
-## 📈 GitHub Stats
+** 📈 GitHub Stats :-**
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mahak008&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />

@@ -34,7 +34,6 @@
 <hr width = "60%" />
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Languages and Tools :-** <br />
-
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
@@ -71,11 +70,20 @@
 <hr />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">**GitHub Stats :-** <br />
-
 <p align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahak008&theme=radical" height="150" alt="Profile Summary">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahak008&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&theme=radical" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahak008&theme=radical" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mahak008&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahak008&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahak008&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahak008&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahak008&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahak008&theme=radical&utcOffset=8">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Mahak008&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahak008&theme=radical">
 </p>
+
+<hr />
+
+**🏆 Trophies :-**
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=Mahak008&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</div>
+

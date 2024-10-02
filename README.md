@@ -30,6 +30,8 @@
 🥇 Secured 1st place out of 250+ teams at the District Level in <b>NCSC, 2018</b>. <br />
 🎓 Honored with the <b>Most Reliable Student Award, 2018</b> for dedication to Academics and Extra-Curriculars. <br />
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
   Languages and Tools:
@@ -68,6 +70,8 @@
   </a>
 </p>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h3>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Statistics:
@@ -83,6 +87,7 @@
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahak008&theme=radical">
 </p>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h3>🏆 Trophies: </h3>
 <div align="center">

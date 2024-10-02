@@ -30,6 +30,8 @@
 🥇 Secured 1st place out of 250+ teams at the District Level in NCSC, 2018. <br />
 🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars. <br />
 
+<hr width = "80%" />
+
 ## 🛠️ Languages and Tools
 
 <p align="left"> 

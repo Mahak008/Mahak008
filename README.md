@@ -79,7 +79,7 @@
 <p align="center"> 
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahak008&theme=radical">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahak008&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahak008&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahak008&show_icons=true&locale=en&layout=compact&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahak008&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahak008&theme=radical&utcOffset=8">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Mahak008&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
@@ -93,4 +93,3 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=Mahak008&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
-

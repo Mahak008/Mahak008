@@ -11,7 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=mahak008&label=Profile%20views&color=0e75b6&style=flat" alt="mahak008"> 
 </p>
 
-<img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> <br>
+<img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> <br/>
+<hr />
 
 **🚀 About Me** <br />
 ✨ **MERN Stack Developer** <br />

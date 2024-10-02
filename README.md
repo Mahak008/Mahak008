@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahak Garg</h1>
-<h2 align="center">A Passionate Frontend Developer from India</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahakgarg/">LinkedIn</a> |
+  <a href="https://mahakgarg.vercel.app/">Portfolio</a> |
+  <a href="mailto:garg02mahak@gmail.com">Contact me</a> 
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahak008&label=Profile%20views&color=0e75b6&style=flat" alt="mahak008"> 

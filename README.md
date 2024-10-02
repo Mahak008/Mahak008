@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahak Garg</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/mahakgarg/">LinkedIn</a> |
+  <a href="https://www.geeksforgeeks.org/user/mahak_garg/">GeeksforGeeks</a> |
+  <a href="https://leetcode.com/u/Mahak80/">Leetcode</a> |
   <a href="https://mahakgarg.vercel.app/">Portfolio</a> |
   <a href="mailto:garg02mahak@gmail.com">Contact me</a> 
 </p> 

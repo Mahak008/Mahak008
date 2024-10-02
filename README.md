@@ -20,23 +20,21 @@
   <img src="https://komarev.com/ghpvc/?username=mahak008&label=Profile%20views&color=0e75b6&style=flat" alt="mahak008"> 
 </p>
 
-<hr />
-
 <img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> 
 
-**🏆 Achievements :-** <br />
+<h3>
+  🏆 Achievements: 
+</h3>
 🏅 Qualified Smart India Hackathon 2023 Internal Round. <br />
 🎖️ Ranked amongst the Top 60 teams in **Hacksquad'22**. <br />
 🥉 3rd Top Contributor in **Social Winter of Code 2.0** out of 1200+ participants. <br />
 🥇 Secured 1st place out of 250+ teams at the District Level in NCSC, 2018. <br />
 🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars. <br />
 
-<hr width = "60%" />
-
-<h2>
+<h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
   Languages and Tools
-</h2>
+</h3>
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -71,10 +69,10 @@
   </a>
 </p>
 
-<h2>
+<h3>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   GitHub Stats
-</h2>
+</h3>
 
 <p align="center"> 
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahak008&theme=radical">
@@ -86,10 +84,8 @@
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahak008&theme=radical">
 </p>
 
-<h2>
-  🏆 Trophies
-</h2>
 
+<h3>🏆 Trophies: </h3>
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=Mahak008&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-trophies.vercel.app/?username=Mahak008&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>

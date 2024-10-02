@@ -9,17 +9,16 @@
   <img src="https://komarev.com/ghpvc/?username=mahak008&label=Profile%20views&color=0e75b6&style=flat" alt="mahak008"> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://xd.adobe.com/ideas/wp-content/uploads/2021/07/1617979191-8.gif">
+<img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> <br>
 
 ## 🚀 About Me
-
-- 🔭 I am currently pursuing MCA from Indira Gandhi Delhi Technical University for Women, New Delhi.
-- 🌱 I’m currently learning **Web Development and DSA**.
-- 📫 Reach out to me at **[garg02mahak@gmail.com](mailto:garg02mahak@gmail.com)**.
-- 👨‍💻 I am an **Open Source Enthusiast**.
+✨ **MERN Stack Developer** <br />
+👨‍💻 **Open Source Enthusiast** <br />
+🔭 MCA final year student at IGDTUW, New Delhi. <br />
+🌱 Currently learning **MERN Stack Development and Data Structures and Algorithms**. <br />
 
 ## 🏆 Achievements
-- 🏅 Qualified Smart India Hackathon 2023 Internal Round
+- 🏅 Qualified Smart India Hackathon 2023 Internal Round.
 - 🎖️ Ranked amongst the Top 60 teams in **Hacksquad'22**.
 - 🥉 3rd Top Contributor in **Social Winter of Code 2.0** out of 1200+ participants.
 - 🥇 Secured 1st place out of 250+ teams at the District Level in National Children Science Congress, 2018.

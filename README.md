@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ff8096&size=24&center=true&vCenter=true&width=435&lines=MCA+Student;Tech+Savvy;Frontend+Developer;Open+Source+Enthusiast;Loves+to+Learn+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ff8096&size=24&center=true&vCenter=true&width=435&lines=MCA+Student;Tech+Enthusiast;Frontend+Developer;Open+Source+Contributor;Loves+to+Learn+New+Things" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -24,14 +24,14 @@
 
 <img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> 
 
-**🏆 Achievements** <br />
+**🏆 Achievements :-** <br />
 🏅 Qualified Smart India Hackathon 2023 Internal Round. <br />
 🎖️ Ranked amongst the Top 60 teams in **Hacksquad'22**. <br />
 🥉 3rd Top Contributor in **Social Winter of Code 2.0** out of 1200+ participants. <br />
 🥇 Secured 1st place out of 250+ teams at the District Level in NCSC, 2018. <br />
 🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars. <br />
 
-<hr width = "80%" />
+<hr width = "60%" />
 
 ## 🛠️ Languages and Tools
 
@@ -68,20 +68,11 @@
   </a>
 </p>
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&hide=html&theme=dracula&hide_border=true">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahak008&theme=dracula" alt="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahak008&theme=dracula">
-  </a>
-</p>
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak008&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact"><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahak008&theme=dracula"><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahak008&theme=dracula&show_icons=true&locale=en&hide_border=true&layout=compact">
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mahak008&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak008&layout=compact&theme=radical" height="150" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahak008&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahak008&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
 </p>

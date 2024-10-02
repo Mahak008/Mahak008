@@ -24,8 +24,8 @@
 - 🏅 Qualified Smart India Hackathon 2023 Internal Round
 - 🎖️ Ranked amongst the Top 60 teams in **Hacksquad'22**.
 - 🥉 3rd Top Contributor in **Social Winter of Code 2.0** out of 1200+ participants.
+- 🥇 Secured 1st place out of 250+ teams at the District Level in National Children Science Congress, 2018.
 - 🎓 Honored with the Most Reliable Student Award at Rock Gold Academy in 2018 for dedication to academic and extracurriculars.
-- 🥇 Secured 1st place out of 250+ teams at the District Level in National Children Sscience Congress, 2018.
 
 ## 🌐 Social Profiles
 

@@ -11,7 +11,7 @@
 </h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/mahakgarg/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/mahakgarg/">Linkedin</a>
   <a href="https://www.geeksforgeeks.org/user/mahak_garg/">GeeksforGeeks</a> |
   <a href="https://leetcode.com/u/Mahak80/">Leetcode</a> |
   <a href="https://mahakgarg.vercel.app/">Portfolio</a> |
@@ -57,6 +57,7 @@
 <br>
 **Tools and Platforms:**
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat"> 
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">

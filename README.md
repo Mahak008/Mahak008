@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mahak Garg</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  , I'm Mahak Garg <br />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ff8096&size=24&center=true&vCenter=true&width=435&lines=MCA+Student;Tech+Savvy;Frontend+Developer;Open+Source+Enthusiast;Loves+to+Learn+New+Things" alt="Typing SVG" />
+</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mahakgarg/">LinkedIn</a> |
   <a href="https://www.geeksforgeeks.org/user/mahak_garg/">GeeksforGeeks</a> |
@@ -14,14 +23,6 @@
 <hr />
 
 <img src="img.jpeg" min-width="300px" max-width="300px" width="300px" align="right"> 
-
-**🚀 About Me** <br />
-✨ **MERN Stack Developer** <br />
-👨‍💻 **Open Source Enthusiast** <br />
-🔭 MCA final year student at IGDTUW, New Delhi. <br />
-🌱 Currently learning **MERN Stack Development and DSA**. <br />
-
-<hr />
 
 **🏆 Achievements** <br />
 🏅 Qualified Smart India Hackathon 2023 Internal Round. <br />

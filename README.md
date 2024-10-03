@@ -11,7 +11,7 @@
 </h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/mahakgarg/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/mahakgarg/">Linkedin</a> |
   <a href="https://www.geeksforgeeks.org/user/mahak_garg/">GeeksforGeeks</a> |
   <a href="https://leetcode.com/u/Mahak80/">Leetcode</a> |
   <a href="https://mahakgarg.vercel.app/">Portfolio</a> |

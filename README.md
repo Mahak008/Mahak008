@@ -43,7 +43,7 @@
 </h3>
 🏅 Qualified <b>Smart India Hackathon, 2023</b> Internal Round. <br />
 🎖️ Ranked amongst the Top 60 teams in <b>Hacksquad, 2022</b>. <br />
-🥉 3rd Top Contributor in <b>Social Winter of Code 2.0</b> out of 1200+ participants. <br />
+🥉 3rd Top Contributor in <b>Social Winter of Code 2.0, 2021</b> out of 1200+ participants. <br />
 🎓 Honored with the <b>Most Reliable Student Award, 2018</b> for dedication to Academics and Extra-Curriculars. <br />
 🥇 Secured 1st place out of 250+ teams at the District Level in <b>NCSC, 2017</b>. <br />
 

@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://mahakgarg.vercel.app/">
-    Portfolio
+    <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=github&logoColor=#FFFFFF" />
   </a>
   <a href="mailto:garg02mahak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

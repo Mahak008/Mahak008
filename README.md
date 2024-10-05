@@ -30,8 +30,8 @@
 🏅 Qualified <b>Smart India Hackathon, 2023</b> Internal Round. <br />
 🎖️ Ranked amongst the Top 60 teams in <b>Hacksquad, 2022</b>. <br />
 🥉 3rd Top Contributor in <b>Social Winter of Code 2.0</b> out of 1200+ participants. <br />
-🥇 Secured 1st place out of 250+ teams at the District Level in <b>NCSC, 2018</b>. <br />
 🎓 Honored with the <b>Most Reliable Student Award, 2018</b> for dedication to Academics and Extra-Curriculars. <br />
+🥇 Secured 1st place out of 250+ teams at the District Level in <b>NCSC, 2017</b>. <br />
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -88,13 +88,17 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<!--<h3>🔝 Top Contributed Repo</h3> -->
-<!-- <img src="https://github-contributor-stats.vercel.app/api?username=Mahak008&limit=5&theme=radical"> -->
-
 <h3>
   <img src="https://media1.giphy.com/media/zjPuT0erGMWONFdxEl/giphy.webp?cid=790b761169az0s1xtjju2li4mf54jsx7jbkye98hmq9pvue4&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="40" style="margib-top:"-5px"">
   Trophies: 
 </h3>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Mahak008&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<h3>🔝 Top Contributed Repo</h3> 
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mahak008&limit=5&theme=radical&combine_all_yearly_contributions=true" /> 
 </div>

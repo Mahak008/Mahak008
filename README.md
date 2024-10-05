@@ -11,9 +11,17 @@
 </h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/mahakgarg/">Linkedin</a> |
+  
+  <a href="https://www.linkedin.com/in/mahakgarg/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a> |
   <a href="https://www.geeksforgeeks.org/user/mahak_garg/">GeeksforGeeks</a> |
-  <a href="https://leetcode.com/u/Mahak80/">Leetcode</a> |
+  <a href="https://www.hackerrank.com/profile/mahakgarg8002">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Mahak80/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a> |
   <a href="https://mahakgarg.vercel.app/">Portfolio</a> |
   <a href="mailto:garg02mahak@gmail.com">Contact me</a> 
 </p> 

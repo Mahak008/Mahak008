@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mahak_garg/">
-    GeeksforGeeks
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
   </a>
   <a href="https://www.hackerrank.com/profile/mahakgarg8002">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />

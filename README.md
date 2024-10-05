@@ -36,6 +36,7 @@
   <img src="https://komarev.com/ghpvc/?username=mahak008&label=Profile%20views&color=0e75b6&style=flat" alt="mahak008"> 
 </p>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h3>
   <img src="https://media4.giphy.com/media/qXp82ZL3eZbbTUrLyy/giphy.webp?cid=790b76111ilwevdelym970yv1nehqljd5lary751bukk5kcj&ep=v1_stickers_search&rid=giphy.webp&ct=s" width ="25">

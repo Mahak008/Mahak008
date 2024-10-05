@@ -43,9 +43,9 @@
 </h3>
 🏅 Winner of <b>Smart India Hackathon, 2023</b> at IGDTUW. <br />
 🎖️ Ranked amongst the Top 60 teams in <b>Hacksquad, 2022</b>. <br />
-🥉 3rd Top Contributor in <b>Social Winter of Code 2.0, 2021</b> out of 1200+ participants. <br />
+🥉 3rd Top Contributor in <b>Social Winter of Code 2.0, 2021</b>. <br />
 🎓 Honored with the <b>Most Reliable Student Award, 2018</b> for dedication to Academics and Extra-Curriculars. <br />
-🥇 Secured 1st place out o in <b>NCSC, 2017</b> at the District Level. <br />
+🥇 Secured 1st place out in <b>NCSC, 2017</b> at the District Level. <br />
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 

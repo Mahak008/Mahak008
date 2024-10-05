@@ -10,8 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=ff8096&size=24&center=true&vCenter=true&width=435&lines=MCA+Student;Tech+Enthusiast;Frontend+Developer;Open+Source+Contributor;Loves+to+Learn+New+Things" alt="Typing SVG" />
 </h3>
 
-<p>
-  
+<p>  
   <a href="https://www.linkedin.com/in/mahakgarg/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -25,7 +24,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://mahakgarg.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=github&logoColor=#FFFFFF" />
+    <img src="https://img.shields.io/badge/-Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=#000000" />
   </a>
   <a href="mailto:garg02mahak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

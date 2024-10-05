@@ -74,11 +74,11 @@
 <br>
 **Tools and Platforms:**
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat"> 
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
-<img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat"> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000000">
+<img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=000000&style=flat"> 
 <br>
 **Operating Systems:**
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">

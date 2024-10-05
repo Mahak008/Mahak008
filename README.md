@@ -58,8 +58,8 @@
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat"> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-c++-0000FF?logo=c%2B%2B&logoColor=white&style=flat&">
+<img src="https://img.shields.io/badge/-Java-5382a1?logo=java&logoColor=white&style=flat">
 <br>
 **Frameworks:**
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat"> 
